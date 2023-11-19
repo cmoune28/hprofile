@@ -1,5 +1,5 @@
 name: Cedprofile Actions
-on: workflow_dsispatch
+on: workflow_dispatch
 jobs: 
   Testing: 
     runs-on: ubuntu-latest
